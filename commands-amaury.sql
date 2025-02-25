@@ -7,7 +7,7 @@ select "Starting amaury's commands";
 /*Exercice 4
 .output q4.txt */
 select marque, type
-from vehicule v
+from vehicule
 where annee = 2018;
 .output
 
